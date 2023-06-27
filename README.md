@@ -39,6 +39,7 @@ I am learning a lot every day and will keep working on my personnal software pro
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
 
+<br />
 
 
 📊 **This week i spent my time on:**
@@ -74,7 +75,8 @@ If you like what i do, maybe consider reaching out
 ⏳  Longest streak is 10 days -->
 <!-- TODO-IST:END -->
 
+<br />
 
-📈 My github stats
+📈 **My github stats**
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cosyosbourne&show_icons=true&theme=gotham" alt="TitouanAndritsos" />
