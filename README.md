@@ -26,7 +26,9 @@ I am learning a lot every day and will keep working on my personnal software pro
 - 💼 any work or internship opportunity? do reach here : [email](mailto:titouan.andritsos@hotmail.fr)
 - 💬 ask me about anything, I am happy to help;
 
-**languages and tools:**
+<br />
+
+**Languages and tools:**
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
@@ -39,12 +41,16 @@ I am learning a lot every day and will keep working on my personnal software pro
 
 
 
-📊 **this week i spent my time on:**
+📊 **This week i spent my time on:**
 
 TypeScript
+<br />
 Java
+<br />
 Angular
+<br />
 GitHub
+<br />
 
 <!--START_SECTION:waka-->
 
@@ -69,6 +75,6 @@ If you like what i do, maybe consider reaching out
 <!-- TODO-IST:END -->
 
 
-📈 my github stats
+📈 My github stats
 
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=cosyosbourne&show_icons=true&theme=gotham" alt="TitouanAndritsos" />
