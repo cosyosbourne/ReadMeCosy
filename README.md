@@ -1,4 +1,4 @@
-### hey there
+### Hello there
 <a href="https://www.instagram.com/cosy_osbourne/">
   <img align="left" alt="Titouan's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -23,36 +23,49 @@ I am learning a lot every day and will keep working on my personnal software pro
 
   <img align="right" alt="GIF" src="https://github.com/cosyosbourne/ReadMeCosy/blob/master/code.gif" width="500" height="320" />
 
-- 💼 any work or internship opportunity? do reach, [email](mailto:titouan.andritsos@hotmail.fr) :)
+- 💼 any work or internship opportunity? do reach here : [email](mailto:titouan.andritsos@hotmail.fr)
 - 💬 ask me about anything, I am happy to help;
 
 **languages and tools:**
 
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/docker/docker.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/angular/angular.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
-<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png"></code>
+
+
 
 📊 **this week i spent my time on:**
+
+TypeScript
+Java
+Angular
+GitHub
+
 <!--START_SECTION:waka-->
 
-```txt
+<!-- ```txt
 TypeScript   12 hrs 31 mins  ██████████████████████▒░░   88.72 %
 Vue.js       21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.52 %
 JSON         18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.23 %
 JavaScript   17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.03 %
 Other        15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.86 %
-```
+``` -->
 
 <!--END_SECTION:waka-->
 
 If you like what i do, maybe consider reaching out
 
-🚧 **my todoist stats:**
+<!-- 🚧 **my todoist stats:** -->
 <!-- TODO-IST:START -->
-🏆  7,995 Karma Points
+<!-- 🏆  7,995 Karma Points
 🌸  Completed 0 tasks today
 ✅  Completed 673 tasks so far
-⏳  Longest streak is 10 days
+⏳  Longest streak is 10 days -->
 <!-- TODO-IST:END -->
 
 
